@@ -1,14 +1,14 @@
 {
-  "pool_id": 2,
-  "bind_ip": "192.168.1.3",
-  "hostname": "vip69.ru",
-  "db_storage_path": "/home/swa74/pool_db",
+  "pool_id": 0,
+  "bind_ip": "IP",
+  "hostname": "HOST",
+  "db_storage_path": "/home/user/pool_db",
   "coin": "zls",
   "mysql": {
     "connectionLimit": 20,
-    "host": "192.168.1.2",
+    "host": "host",
     "database": "pool",
-    "user": "swa74",
-    "password": "Gjqfr-txrq4"
+    "user": "user",
+    "password": "password"
   }
 }
